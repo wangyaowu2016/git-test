@@ -4,5 +4,6 @@ public class Git_test {
         System.out.println("aaa");
         System.out.println("hot-fix");
         System.out.println("master");
+        System.out.println("push");
     }
 }
